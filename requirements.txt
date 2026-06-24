@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+dtale
+plotly
+io
+re
+warnings
